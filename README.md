@@ -84,3 +84,24 @@ w도출과정: 편미분
 <img width="521" alt="Image" src="https://github.com/user-attachments/assets/d66f84a9-d865-4fc0-8252-18c18741cd00" />
 
 : 최소제곱법을 통해 오차가 가장 적은 빨간 회귀선이 선형회귀 모델로 선정되는 것.
+
+## 3. 헷갈리는 개념: 오차와 잔차 ?
+
+### 3.1 모집단과 표본
+![Image](https://github.com/user-attachments/assets/1149f89b-0a53-44b2-9b06-06df5b874548)
+
+- 통계학: 모집단에서 표본 추출 >  표본으로 모집단을 추정
+
+<img width="493" alt="Image" src="https://github.com/user-attachments/assets/b13b69eb-ba7d-4ee1-ab9a-54b9e5501367" />
+
+- 잔차(residual)는 표본(sample)으로 추정한 회귀식과 실제 관측값의 차이
+    - 잔차가 최소가 되는 회귀 직선 찾고
+    - 잔차가 얼마나 작은지 평가지표로 활용
+    - 잔차의 합은 0이됨
+ 
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/8eff6fb1-6454-41bf-a8e4-c6619e82101c" />
+
+- 오차(error)는 모집단(population)으로부터 추정한 회귀식으로부터 얻은 예측값과 실제 관측값의 차이
+    - 우리는 모집단을 알 수 없음. 그 합도 알 수 없음 (모집단에서 표본을 추출한 것이기 때문)
+
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/61c476af-6e06-4a90-aa7f-5873252672b9" />
