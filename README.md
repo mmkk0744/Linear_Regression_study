@@ -9,7 +9,7 @@
 
 - 아이스크림 판매량과 모기 개체수 상관관계가 1에 가깝다! (아이스크림 1개 팔릴 때 마다 모기 개체수도 1씩 오른다.)
 - ❌ 상관성만 있을뿐, 인과성은 없다.
-<img width="323" alt="Image" src="https://github.com/user-attachments/assets/efd777a3-09bb-457b-a60d-89fc18d28962" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/efd777a3-09bb-457b-a60d-89fc18d28962" />
 
 ### 1.2 상관계수에 대한 오해
 - 상관계수가 두 연속형 변수의 상관성을 나타내는 수치인 것은 맞다.
